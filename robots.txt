@@ -1,0 +1,35 @@
+# Sallies Warm HealthCare - Houston TX
+# Non-Medical Private Duty Home Care
+# https://sallieswarmhealthcare.com
+
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /caregiver.html
+Allow: /sitemap.xml
+
+# Reference to sitemap
+Sitemap: https://sallieswarmhealthcare.com/sitemap.xml
+
+# Allow all major search engine crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+# Block unnecessary crawling of assets
+User-agent: *
+Disallow: /assets/js/
