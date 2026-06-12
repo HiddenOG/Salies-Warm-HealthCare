@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+   <!-- Homepage: Non-Medical Home Care Houston TX -->
+   <url>
+      <loc>https://sallieswarmhealthcare.com/</loc>
+      <lastmod>2026-06-12</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+      <image:image>
+         <image:loc>https://sallieswarmhealthcare.com/assets/img/home-bg.jpg</image:loc>
+         <image:title>Sallies Warm HealthCare - Compassionate Non-Medical Home Care in Houston TX</image:title>
+         <image:caption>Sallies Warm HealthCare provides trusted non-medical private duty caregiver services in Houston, Texas and across the United States</image:caption>
+      </image:image>
+      <image:image>
+         <image:loc>https://sallieswarmhealthcare.com/assets/img/home-logo.png</image:loc>
+         <image:title>Sallies Warm HealthCare Logo</image:title>
+      </image:image>
+      <image:image>
+         <image:loc>https://sallieswarmhealthcare.com/assets/img/about-img.jpg</image:loc>
+         <image:title>About Sallies Warm HealthCare - Non-Medical Private Duty Services Houston TX</image:title>
+         <image:caption>Professional caregivers providing personalized home care services for seniors in Houston Texas</image:caption>
+      </image:image>
+      <image:image>
+         <image:loc>https://sallieswarmhealthcare.com/assets/img/contact-1.jpg</image:loc>
+         <image:title>Contact Sallies Warm HealthCare Houston TX</image:title>
+         <image:caption>Contact our Houston TX office for compassionate home care services</image:caption>
+      </image:image>
+   </url>
+
+   <!-- Caregiver Recruitment Page -->
+   <url>
+      <loc>https://sallieswarmhealthcare.com/caregiver.html</loc>
+      <lastmod>2026-06-12</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+      <image:image>
+         <image:loc>https://sallieswarmhealthcare.com/assets/img/care-1.png</image:loc>
+         <image:title>Become a Caregiver at Sallies Warm HealthCare Houston TX</image:title>
+         <image:caption>Join our team of compassionate caregivers serving families across Houston Texas</image:caption>
+      </image:image>
+      <image:image>
+         <image:loc>https://sallieswarmhealthcare.com/assets/img/request-1.jpg</image:loc>
+         <image:title>Caregiver with Senior - Sallies Warm HealthCare Houston</image:title>
+         <image:caption>Professional caregiver providing companion care services to senior in Houston TX</image:caption>
+      </image:image>
+      <image:image>
+         <image:loc>https://sallieswarmhealthcare.com/assets/img/request-2.jpg</image:loc>
+         <image:title>Caregiver Consultation Houston TX</image:title>
+         <image:caption>Free home care consultation for families in Houston Texas and surrounding areas</image:caption>
+      </image:image>
+   </url>
+
+</urlset>
